@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FatiguedRook
-- You may call me rook, or marly jade
+- You may call me rook, or marlyjade
   I am a compsci student and artist from canada (ooh exotic). 
 I will probably make things based on things Im hyperfixating on or personal tools.
 I am learning java, I want to learn c++, c#, python, and how to use game engines
